@@ -1,13 +1,10 @@
 # flu-h1n1-predictions
 
-Built with:
-Python 3.7 on Google Colab
+Built with: Python 3.7 on Google Colab
 
-Prerequisites
-The necessary_CSVs.zip file includes the necessary files to run the program
+Prerequisites: The necessary_CSVs.zip file includes the necessary files to run the program
 
-License
-Distributed under the MIT License. See LICENSE.txt for more information.
+License: Distributed under the MIT License. See LICENSE.txt for more information.
 
 Tobias Kaczka - tobiaskaczka@gmail.com
 
